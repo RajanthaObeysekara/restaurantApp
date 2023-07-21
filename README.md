@@ -1,2 +1,2 @@
-# restaurantApp
+# RestaurantApplication
 Restaurant applicattion
